@@ -1,5 +1,5 @@
-from awesomediegopackage.basic_arithmetic import somma, prodotto
-from awesomediegopackage.advanced_arithmetic import potenza, radice
+from src.awesomediegopackage import somma, prodotto
+from src.awesomediegopackage.advanced_arithmetic import potenza, radice
 
 if __name__ == '__main__':
     print("This is the first package written and published by Diego Stucchi.")

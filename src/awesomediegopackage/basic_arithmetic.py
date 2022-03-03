@@ -1,4 +1,5 @@
 def somma(*numbers):
+    print("Ciao Diego e Luca")
     if len(numbers) == 0:
         return 0
     else:
